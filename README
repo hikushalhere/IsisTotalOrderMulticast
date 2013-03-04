@@ -1,0 +1,8 @@
+# For detailed explanation of the problem, refer to the paper http://dl.acm.org/citation.cfm?id=7478 
+# For implementation overview, please read 'Implementation Overview.pdf' in this repo.
+
+# To compile
+make
+
+# To clean
+make clean
